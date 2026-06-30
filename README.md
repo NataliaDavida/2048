@@ -43,7 +43,7 @@ The logical architecture of the game scripts and styles inside the `src/` direct
 1. **Clone the repository:**
    
    ```bash
-   git clone https://github.com/NataliaDavida/2048.git
+   git clone https://github.com/nataliadavida/2048.git
 
 2. **Navigate to the project directory:**
      ```bash
