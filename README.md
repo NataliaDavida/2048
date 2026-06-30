@@ -2,7 +2,7 @@
 
 A modern version of the popular **2048** game. The goal of the game is to slide numbered tiles on a grid to combine them to create a tile with the number 2048.
 
-[DEMO LINK](https://nataliadavida.github.io/2048/)
+[DEMO LINK](https://NataliaDavida.github.io/2048/)
 
 ---
 
@@ -11,7 +11,6 @@ A modern version of the popular **2048** game. The goal of the game is to slide 
 * **Classic Gameplay** — Smooth tile sliding and combining mechanics.
 * **Keyboard Controls** — Play comfortably using the arrow keys (`ArrowUp`, `ArrowDown`, `ArrowLeft`, `ArrowRight`).
 * **Object-Oriented Architecture** — Game logic is cleanly structured using JavaScript classes (e.g., `Game` class).
-* **Responsive Layout** — Adaptive design that fits perfectly on both desktop and mobile screens.
 
 ---
 
@@ -39,22 +38,23 @@ The logical architecture of the game scripts and styles inside the `src/` direct
 
 ---
 
-## How to Set Up Locally
+## Installation & Setup
 
-To run this game on your local machine, follow these simple steps:
+1. **Clone the repository:**
+   
+   ```bash
+   git clone https://github.com/NataliaDavida/landin-page_Museum.git
 
-### 1. Clone the repository
-```bash
-   git clone https://github.com/NataliaDavida/2048.git
+2. **Navigate to the project directory:**
+     ```bash
+    cd landing-page_museum
 
-### 2. Navigate to the progect foldel
-```bash
-   cd 2048
+3. **Install project dependencies:**
+   
+    ```bash
+    npm install
 
-### 3. Install dependencies
-```bash
-   npm install
-
-### 3. Start the development server
-```bash
-   npm start
+4. **Start the local development server:**
+   
+    ```bash
+    npm start
